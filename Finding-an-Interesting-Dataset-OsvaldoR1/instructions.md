@@ -17,7 +17,7 @@ No.| To Do
 6| Download your replit work files to the folder you have in the documents on your computer, just like you did with the previous assignment.
 7 | Rename your "main.py" file to reflect the type of data you have found. For example, if I am uploading a csv that is about pokemon, I would rename my file to something like "pokemon_data.py"
 8| In your terminal, make sure you are in your root folder and install the following packages: pandas, jupyter notebook. NOTE : you can install packages using the command "python3 -m pip install {package name}" on a mac or using "py -m pip install {package name}" on a windows
-9| Once you have the packages installed, you can open a jupyter notebook server on your computer by typing just "jupyter notebook" in your terminal
+9| Once you have the packages installed, you can open a jupyter notebook server on your computer by typing just "jupyter notebook" in your terminal. If that doesn't work, type "python3 -m jupyter notebook"(Mac) or "py -m jupyter notebook"(Windows) instead.
 10| With jupyter open, go inside your new folder you just added to vscode, and then create a new Python 3 file using the new button to the right of the jupyter notebook interface
 11| Name this notebook file and copy the code from you original python file into it. Remove the print statement at the bottom, but leave just the name of your data's variable. Using the button near the top that looks like a fast forward button, run the code. You should see your dataset print out!
 12| Use the file option at the top of jupyter to save and checkpoint your work. Once you have, do a git commit to update your github repo with your new dataset!
